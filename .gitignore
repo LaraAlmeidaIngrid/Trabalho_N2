@@ -8,3 +8,6 @@ desktop.ini
 # Arquivos automáticos
 *.log
 *.tmp
+
+# Arquivos de imagem
+img/
