@@ -16,6 +16,8 @@
 
 Obs: As funções do aluno 3 foram divididas.
 
+---
+
 # Questões
 
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo.
