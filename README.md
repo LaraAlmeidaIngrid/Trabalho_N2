@@ -48,12 +48,12 @@ Obs: As funções do aluno 3 foram divididas.
 
 # Respostas
 
-- Clique aqui para ver as respostas das questões.
+- [Clique aqui para ver as respostas das questões.](questao1_respostas)
 
 ---
 
 # Pesquisa
 
-- Padrões de commits:
+- [Clique aqui e saiba mais sobre padrões de commits.](commits-padroes)
 
-- Padrões de nomenclatura de branches:
+- [Clique aqui e saiba mais sobre padrões de nomenclatura de branches.]()
