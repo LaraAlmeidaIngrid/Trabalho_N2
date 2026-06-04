@@ -54,6 +54,6 @@ Obs: As funções do aluno 3 foram divididas.
 
 # Pesquisa
 
-- [Clique aqui e saiba mais sobre padrões de commits.](/Pesquisa/padroes-commits.md)
+- [Clique aqui e saiba mais sobre padrões de commits.](/Pesquisa/)
 
 - [Clique aqui e saiba mais sobre padrões de nomenclatura de branches.]()
