@@ -14,8 +14,8 @@ A nomenclatura de branchs é crucial para a organização, pois manterá os seto
  **• Hotfix:** Tipo de branch específica criada a partir da main e usada para correção de erros urgentes encontrados na branch main( ambiente principal de produção).  
  _Ex: hotfix/192-busca-checklists_  
 **• Chore/:** Tipo de branch específica usada para configurações e manutenções.  
- EX: chore/update-sec-config   
-**• Improvement:** Tipo de branch específica usada para adicionar melhorias às funcionalidades já existentes. 
+ _EX: chore/update-sec-config_   
+**• Improvement:** Tipo de branch específica usada para adicionar melhorias às funcionalidades já existentes.                     
 _Ex: improvement/improve-interaction-panel_
 
 ### Referências:
