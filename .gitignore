@@ -9,4 +9,5 @@ desktop.ini
 *.log
 *.tmp
 
-#pasta img retirada para testes
+#Arquivos de imagem
+img/
