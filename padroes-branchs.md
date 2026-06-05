@@ -10,8 +10,8 @@ A nomenclatura de branchs é crucial para a organização, pois manterá os seto
 **• Feature/feat:** Tipo de branch específica usada para adicionar novas funcionalidades que, se forem validadas em uma branch de testes, serão incorporadas no projeto principal.  
  _Ex: feature/add-login-functionality_   
 **• Bugfix/:** Tipo de branch específica usada para correção de erros em áreas de testes.   
- _Ex: bugfix/628-edicao-colaboradores_ 
-**• Hotfix:** Tipo de branch específica criada a partir da main e usada para correção de erros urgentes encontrados na branch main( ambiente principal de produção).  
+ _Ex: bugfix/628-edicao-colaboradores_                                                              
+ **• Hotfix:** Tipo de branch específica criada a partir da main e usada para correção de erros urgentes encontrados na branch main( ambiente principal de produção).  
  _Ex: hotfix/192-busca-checklists_  
 **• Chore/:** Tipo de branch específica usada para configurações e manutenções.  
  EX: chore/update-sec-config   
