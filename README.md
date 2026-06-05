@@ -1,4 +1,4 @@
-# Trabalho sobre Git e GitHub 🖥️
+# Trabalho sobre Git e GitHub
 
 ---
 
@@ -9,16 +9,14 @@
 
 ---
 
-# Organização da equipe 👥 
+# Organização da equipe
 
 * Aluno 1 - Lara Ingrid Rocha Almeida
 * Aluno 2 - Alice Bandeira Ferreira de Souza 
 
 Obs: As funções do aluno 3 foram divididas.
 
----
-
-# Questões ✏️
+# Questões
 
 1. Explique o conceito de controle de versão distribuído e descreva como o Git implementa esse modelo.
 
@@ -46,14 +44,14 @@ Obs: As funções do aluno 3 foram divididas.
 
 ---
 
-# Respostas ✅
+# Respostas
 
-- [Clique aqui para ver as respostas das questões.](https://github.com/LaraAlmeidaIngrid/Trabalho_N2/blob/questao1_respostas/Respostas-questoes/questoes-respostas.md)
+- Clique aqui para ver as respostas das questões.
 
 ---
 
-# Pesquisa 🔎
+# Pesquisa
 
-- [Clique aqui e saiba mais sobre padrões de commits.](https://github.com/LaraAlmeidaIngrid/Trabalho_N2/blob/commits-padroes/Pesquisa/padroes-commits.md)
+- Padrões de commits:
 
-- [Clique aqui e saiba mais sobre padrões de nomenclatura de branches.](https://github.com/LaraAlmeidaIngrid/Trabalho_N2/blob/padroes-branchs/padroes-branchs.md)
+- Padrões de nomenclatura de branches:
