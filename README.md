@@ -48,7 +48,7 @@ Obs: As funções do aluno 3 foram divididas.
 
 # Respostas ✅
 
-- [Clique aqui para ver as respostas das questões.](questao1_respostas)
+- [Clique aqui para ver as respostas das questões.](https://github.com/LaraAlmeidaIngrid/Trabalho_N2/blob/questao1_respostas/Respostas-questoes/questoes-respostas.md)
 
 ---
 
@@ -56,4 +56,4 @@ Obs: As funções do aluno 3 foram divididas.
 
 - [Clique aqui e saiba mais sobre padrões de commits.](https://github.com/LaraAlmeidaIngrid/Trabalho_N2/blob/commits-padroes/Pesquisa/padroes-commits.md)
 
-- [Clique aqui e saiba mais sobre padrões de nomenclatura de branches.]()
+- [Clique aqui e saiba mais sobre padrões de nomenclatura de branches.](https://github.com/LaraAlmeidaIngrid/Trabalho_N2/blob/padroes-branchs/padroes-branchs.md)
